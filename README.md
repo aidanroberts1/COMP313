@@ -1,0 +1,16 @@
+# COMP313
+HI! Welcome to Side Scroller. 
+
+This is a game concept created for COMP313 Assignment one. 
+
+It implemented basic movements such as move left, move right, jump and a vanity of abilities. 
+
+The level also implements a variety of artistic effects to help make it feel more like a finished product. The design includes a main menu level. A settings menu. Screens for when the level ends of the user dies. 
+
+Some other touches are a variety of consumable objects including health pickups and fuel pickups. Some visual features have been added such as a health bar and fuel system. Also  background music was added for level one. 
+
+You can find more information about the game in the larger PDF document in the repo. 
+
+Regards 
+
+Side Runner development team. 
